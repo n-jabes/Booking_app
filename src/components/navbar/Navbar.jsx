@@ -7,8 +7,8 @@ const Navbar = () => {
         <div className="navContainer">
             <span className="logo">JabesDev</span>
             <div className="navItems">
-                <button className="navButtons">Register</button>
-                <button className="navButtons">Login</button>
+                <button className="navButton">Register</button>
+                <button className="navButton">Login</button>
             </div>
         </div>
     </div>
