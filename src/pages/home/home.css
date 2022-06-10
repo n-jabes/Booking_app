@@ -1,4 +1,7 @@
-/* *{
-    margin: 0;
-    padding: 0;
-} */
+.homeContainer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    align-items: center;
+    gap: 30px;
+}

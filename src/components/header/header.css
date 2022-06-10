@@ -11,6 +11,9 @@
     max-width: 1024px;
     margin: 20px 0px 100px 0px;
 }
+.headerContainer.listMode{
+    margin: 20px 0px 0px 0px;
+}
 
 .headerList{
     display: flex;
@@ -112,6 +115,7 @@
     color: #0071c2;
     cursor: pointer;
 }
+
 .optionCounterButton:disabled{
     cursor: not-allowed;
 }
