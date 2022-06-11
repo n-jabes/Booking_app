@@ -25,6 +25,7 @@
     display: flex;
     align-items: center;
     gap: 10px;
+    cursor: pointer;
 }
 
 .headerListItem.active{
@@ -81,9 +82,11 @@
 .date{
     position: absolute;
     top: 50px;
+    z-index: 2;
 }
 
 .options{
+    z-index: 2;
     position: absolute;
     top: 50px;
     background: #fff;
