@@ -26,6 +26,55 @@
     margin-bottom: 10px;
 }
 
+.lsItem{
+    display: flex;
+    gap: 5px;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.lsItem>label{
+    font-size: 12px;
+    font-weight: 500;
+
+}
+.lsItem>input{
+    padding: 10px;
+    border: none;
+    height: 30px;
+}
+
+.lsItem>span{
+    padding: 10px;
+    cursor: pointer;
+    background-color: #fff;
+}
+
+.lsOptions{
+    padding: 10px;
+}
+
+.lsOptionItem{
+    display: flex;
+    color: #555;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.lsOptionInput{
+    width: 50px;
+}
+
+.listSearch>button{
+    background-color: #0071c2;
+    color: white;
+    width: 100%;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    font-weight: 500;
+}
+
 .listResult{
     flex: 3;
 }
