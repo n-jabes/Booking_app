@@ -15,15 +15,15 @@ const Featured = () => {
         <div className="featuredItem">
             <img src="https://www.travelstart.com.ng/blog/wp-content/uploads/2015/05/lake_kivu-resorts.jpg" alt="" className="featuredImg" />
             <div className="featuredTitles">
-                <h1>Texas</h1>
-                <h2>512 properties</h2>
+                <h1>Austin</h1>
+                <h2>412 properties</h2>
             </div>
         </div>
         <div className="featuredItem">
             <img src="https://www.travelstart.com.ng/blog/wp-content/uploads/2015/05/lake_kivu-resorts.jpg" alt="" className="featuredImg" />
             <div className="featuredTitles">
-                <h1>Australia</h1>
-                <h2>678 properties</h2>
+                <h1>Reno</h1>
+                <h2>533 properties</h2>
             </div>
         </div>
     </div>

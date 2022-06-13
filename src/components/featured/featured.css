@@ -4,18 +4,16 @@
     display: flex;
     justify-content: space-between;
     gap: 20px;
-    z-index: 1;
-    flex: 1;
 }
 
 .featuredItem{
     position: relative;
-    color: #fff;
+    color: white;
     border-radius: 10px;
     overflow: hidden;
-    border: 1px solid red;
-    height: 250px;
+    height: 200px;
 }
+
 .featuredImg{
     width: 100%;
     object-fit: cover;
@@ -24,5 +22,5 @@
 .featuredTitles{
     position: absolute;
     bottom: 20px;
-    margin-left: 20px;
+    left: 20px;
 }
