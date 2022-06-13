@@ -1,6 +1,6 @@
 .mail{
     margin-top: 50px;
-    width: 92%;
+    width: 93.4%;
     display: flex;
     flex-direction: column;
     background: #003580;
@@ -28,5 +28,6 @@
     padding: 5px;
     font-weight: 500;
     border-radius: 5px;
+    cursor: pointer;
 }
 
